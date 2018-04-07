@@ -9,7 +9,7 @@ In this folder, I keep many of the solutions I've written for code-golf challeng
 |--------------------------|--------:|
 | Code solutions:          | **116** |
 | Enabled unit test files: |  **99** |
-| Enabled Unit tests:      | **891** |
+| Enabled unit tests:      | **891** |
 
 Currently, all of these are written in the [Perl 6](https://perl6.org/) programming language, but I may write solutions in other languages in the future.
 
@@ -60,8 +60,8 @@ The file extension specifies how the code solution should be parsed/interpreted:
 
 <sup>1) Meaning a Perl 6 subroutine, block lambda, or [WhateverCode](https://docs.perl6.org/type/Whatever)-lambda.</sup>
 
-## Unit test files
+#### Unit test files
 
 The unit test files live in the `t` folder, with a file name consisting of the task ID in question and the extension `.t`.
 
-They use a custom test framework I've written in Perl 6, that lives in the `lib` folder.
+They use a custom data-driven test framework I've written in Perl 6, that resides in the `lib` folder.
