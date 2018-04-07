@@ -1,0 +1,17 @@
+#!/usr/bin/env perl6
+use lib 'lib';
+use Test::Golf;
+
+golf-ok
+    thaw-in => &int-str,
+    thaw-out => *.words».&int-str,
+    normalize-result => *.List,
+;
+
+sub int-str ($_) { /\d/ ?? .Int !! .Str }
+
+=finish
+1         -> ONE
+32        -> ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN ELEVEN TWELVE THIRTEEN FOURTEEN FIFTEEN SIXTEEN SEVENTEEN EIGHTEEN NINETEEN TWENTY TWENTYONE TWENTYTWO TWENTYTHREE TWENTYFOUR TWENTYFIVE TWENTYSIX TWENTYSEVEN TWENTYEIGHT TWENTYNINE THIRTY THIRTYONE THIRTYTWO
+ONE       -> 1
+THIRTYTWO -> 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32

@@ -1,0 +1,8 @@
+#!/usr/bin/env perl6
+use lib 'lib';
+use Test::Golf;
+
+golf-ok;
+
+=finish
+ALPHA BETA GAMMA DELTA EPSILON ZETA ETA THETA IOTA KAPPA LAMDA MU NU XI OMICRON PI RHO SIGMA TAU UPSILON PHI CHI PSI OMEGA

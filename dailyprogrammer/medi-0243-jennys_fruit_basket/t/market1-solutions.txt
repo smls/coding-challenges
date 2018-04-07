@@ -1,0 +1,180 @@
+1 watermelon
+1 apple, 1 lemon, 2 oranges, 1 mango, 1 grapefruit
+1 apple, 2 lemons, 2 oranges, 1 coconut
+2 apples, 1 grapefruit, 1 papaya
+4 apples, 1 lemon, 2 mangos
+6 apples, 2 oranges
+1 kiwi, 1 lemon, 4 oranges, 1 mango
+1 kiwi, 1 apple, 2 oranges, 1 papaya
+1 kiwi, 2 apples, 2 lemons, 1 orange, 1 grapefruit
+2 kiwis, 1 apple, 2 lemons, 3 oranges
+3 kiwis, 4 lemons, 1 mango
+5 kiwis, 1 lemon, 1 mango, 1 grapefruit
+5 kiwis, 2 lemons, 1 coconut
+5 kiwis, 5 apples
+6 kiwis, 1 papaya
+7 kiwis, 2 lemons, 1 orange
+1 pear, 1 apple, 3 lemons, 2 mangos
+1 pear, 3 apples, 2 lemons, 2 oranges
+1 pear, 1 kiwi, 1 orange, 2 mangos, 1 coconut
+1 pear, 2 kiwis, 1 apple, 2 mangos, 1 grapefruit
+1 pear, 2 kiwis, 1 apple, 1 lemon, 1 mango, 1 coconut
+1 pear, 3 kiwis, 2 oranges, 2 mangos
+1 pear, 4 kiwis, 1 apple, 1 lemon, 1 orange, 1 mango
+1 pear, 5 kiwis, 2 apples, 2 lemons
+2 pears, 1 orange, 1 mango, 2 grapefruits
+2 pears, 1 lemon, 1 orange, 1 grapefruit, 1 coconut
+2 pears, 4 lemons, 2 oranges
+2 pears, 1 kiwi, 1 apple, 1 lemon, 2 grapefruits
+2 pears, 1 kiwi, 2 apples, 1 orange, 2 mangos
+2 pears, 2 kiwis, 1 lemon, 2 oranges, 1 grapefruit
+2 pears, 2 kiwis, 3 apples, 1 lemon, 1 mango
+3 pears, 4 oranges, 1 mango
+3 pears, 2 apples, 1 lemon, 1 orange, 1 grapefruit
+3 pears, 1 kiwi, 1 apple, 1 lemon, 3 oranges
+3 pears, 2 kiwis, 3 lemons, 1 mango
+3 pears, 4 kiwis, 1 mango, 1 grapefruit
+3 pears, 4 kiwis, 1 lemon, 1 coconut
+3 pears, 6 kiwis, 1 lemon, 1 orange
+4 pears, 1 kiwi, 1 apple, 1 mango, 1 coconut
+4 pears, 3 kiwis, 1 apple, 1 orange, 1 mango
+4 pears, 4 kiwis, 2 apples, 1 lemon
+5 pears, 1 apple, 2 grapefruits
+5 pears, 1 kiwi, 2 oranges, 1 grapefruit
+5 pears, 1 kiwi, 3 apples, 1 mango
+6 pears, 1 apple, 3 oranges
+6 pears, 1 kiwi, 2 lemons, 1 mango
+6 pears, 3 kiwis, 1 coconut
+6 pears, 5 kiwis, 1 orange
+7 pears, 3 kiwis, 2 apples
+9 pears, 1 lemon, 1 mango
+1 banana, 2 oranges, 2 mangos, 1 grapefruit
+1 banana, 1 lemon, 2 oranges, 1 mango, 1 coconut
+1 banana, 1 apple, 1 coconut, 1 papaya
+1 banana, 2 apples, 5 lemons
+1 banana, 3 apples, 3 mangos
+1 banana, 1 kiwi, 1 apple, 1 lemon, 1 orange, 1 mango, 1 grapefruit
+1 banana, 1 kiwi, 1 apple, 2 lemons, 1 orange, 1 coconut
+1 banana, 1 kiwi, 6 apples, 1 orange
+1 banana, 2 kiwis, 1 lemon, 3 oranges, 1 mango
+1 banana, 2 kiwis, 1 apple, 1 orange, 1 papaya
+1 banana, 2 kiwis, 2 apples, 2 lemons, 1 grapefruit
+1 banana, 3 kiwis, 1 apple, 2 lemons, 2 oranges
+1 banana, 8 kiwis, 2 lemons
+1 banana, 1 pear, 2 lemons, 3 mangos
+1 banana, 1 pear, 2 apples, 1 lemon, 2 oranges, 1 mango
+1 banana, 1 pear, 3 apples, 1 papaya
+1 banana, 1 pear, 1 kiwi, 3 apples, 2 lemons, 1 orange
+1 banana, 1 pear, 2 kiwis, 2 mangos, 1 coconut
+1 banana, 1 pear, 4 kiwis, 1 orange, 2 mangos
+1 banana, 1 pear, 5 kiwis, 1 apple, 1 lemon, 1 mango
+1 banana, 2 pears, 2 lemons, 1 papaya
+1 banana, 2 pears, 1 kiwi, 1 mango, 2 grapefruits
+1 banana, 2 pears, 1 kiwi, 1 lemon, 1 grapefruit, 1 coconut
+1 banana, 2 pears, 1 kiwi, 4 lemons, 1 orange
+1 banana, 2 pears, 2 kiwis, 2 apples, 2 mangos
+1 banana, 2 pears, 3 kiwis, 1 lemon, 1 orange, 1 grapefruit
+1 banana, 3 pears, 1 apple, 1 orange, 1 mango, 1 grapefruit
+1 banana, 3 pears, 1 apple, 1 lemon, 1 orange, 1 coconut
+1 banana, 3 pears, 1 kiwi, 3 oranges, 1 mango
+1 banana, 3 pears, 1 kiwi, 2 apples, 1 lemon, 1 grapefruit
+1 banana, 3 pears, 2 kiwis, 1 apple, 1 lemon, 2 oranges
+1 banana, 3 pears, 7 kiwis, 1 lemon
+1 banana, 4 pears, 3 apples, 1 lemon, 1 orange
+1 banana, 4 pears, 4 kiwis, 1 apple, 1 mango
+1 banana, 5 pears, 1 grapefruit, 1 coconut
+1 banana, 5 pears, 3 lemons, 1 orange
+1 banana, 5 pears, 2 kiwis, 1 orange, 1 grapefruit
+1 banana, 6 pears, 2 apples, 1 grapefruit
+1 banana, 6 pears, 1 kiwi, 1 apple, 2 oranges
+1 banana, 6 pears, 6 kiwis
+2 bananas, 1 apple, 4 lemons, 1 mango
+2 bananas, 1 kiwi, 1 orange, 2 mangos, 1 grapefruit
+2 bananas, 1 kiwi, 1 lemon, 1 orange, 1 mango, 1 coconut
+2 bananas, 2 kiwis, 1 apple, 1 lemon, 1 mango, 1 grapefruit
+2 bananas, 2 kiwis, 1 apple, 2 lemons, 1 coconut
+2 bananas, 2 kiwis, 6 apples
+2 bananas, 3 kiwis, 1 lemon, 2 oranges, 1 mango
+2 bananas, 3 kiwis, 1 apple, 1 papaya
+2 bananas, 4 kiwis, 1 apple, 2 lemons, 1 orange
+2 bananas, 1 pear, 1 pineapple
+2 bananas, 1 pear, 1 lemon, 1 orange, 2 grapefruits
+2 bananas, 1 pear, 1 apple, 2 oranges, 2 mangos
+2 bananas, 1 pear, 1 kiwi, 2 apples, 1 lemon, 1 orange, 1 mango
+2 bananas, 1 pear, 2 kiwis, 3 apples, 2 lemons
+2 bananas, 1 pear, 5 kiwis, 2 mangos
+2 bananas, 2 pears, 1 lemon, 4 oranges
+2 bananas, 2 pears, 2 kiwis, 4 lemons
+2 bananas, 2 pears, 4 kiwis, 1 lemon, 1 grapefruit
+2 bananas, 3 pears, 1 orange, 1 mango, 1 coconut
+2 bananas, 3 pears, 1 kiwi, 1 apple, 1 mango, 1 grapefruit
+2 bananas, 3 pears, 1 kiwi, 1 apple, 1 lemon, 1 coconut
+2 bananas, 3 pears, 2 kiwis, 2 oranges, 1 mango
+2 bananas, 3 pears, 3 kiwis, 1 apple, 1 lemon, 1 orange
+2 bananas, 4 pears, 2 apples, 1 orange, 1 mango
+2 bananas, 4 pears, 1 kiwi, 3 apples, 1 lemon
+2 bananas, 5 pears, 1 kiwi, 3 lemons
+2 bananas, 5 pears, 3 kiwis, 1 grapefruit
+2 bananas, 6 pears, 1 apple, 1 coconut
+2 bananas, 6 pears, 2 kiwis, 1 apple, 1 orange
+2 bananas, 7 pears, 3 apples
+2 bananas, 8 pears, 2 lemons
+3 bananas, 3 lemons, 2 mangos
+3 bananas, 2 apples, 2 lemons, 2 oranges
+3 bananas, 2 kiwis, 2 mangos, 1 grapefruit
+3 bananas, 2 kiwis, 1 lemon, 1 mango, 1 coconut
+3 bananas, 4 kiwis, 1 lemon, 1 orange, 1 mango
+3 bananas, 5 kiwis, 1 apple, 2 lemons
+3 bananas, 1 pear, 1 kiwi, 1 lemon, 2 grapefruits
+3 bananas, 1 pear, 1 kiwi, 1 apple, 1 orange, 2 mangos
+3 bananas, 1 pear, 2 kiwis, 2 apples, 1 lemon, 1 mango
+3 bananas, 2 pears, 1 apple, 1 lemon, 1 orange, 1 grapefruit
+3 bananas, 2 pears, 1 kiwi, 1 lemon, 3 oranges
+3 bananas, 3 pears, 1 kiwi, 1 mango, 1 coconut
+3 bananas, 3 pears, 3 kiwis, 1 orange, 1 mango
+3 bananas, 3 pears, 4 kiwis, 1 apple, 1 lemon
+3 bananas, 4 pears, 2 grapefruits
+3 bananas, 4 pears, 1 kiwi, 2 apples, 1 mango
+3 bananas, 5 pears, 3 oranges
+3 bananas, 6 pears, 3 kiwis, 1 apple
+4 bananas, 1 apple, 1 lemon, 2 oranges, 1 mango
+4 bananas, 2 apples, 1 papaya
+4 bananas, 1 kiwi, 2 apples, 2 lemons, 1 orange
+4 bananas, 5 kiwis, 1 lemon, 1 mango
+4 bananas, 1 pear, 2 kiwis, 1 apple, 2 mangos
+4 bananas, 2 pears, 1 orange, 1 mango, 1 grapefruit
+4 bananas, 2 pears, 1 lemon, 1 orange, 1 coconut
+4 bananas, 2 pears, 1 kiwi, 1 apple, 1 lemon, 1 grapefruit
+4 bananas, 2 pears, 2 kiwis, 1 lemon, 2 oranges
+4 bananas, 3 pears, 2 apples, 1 lemon, 1 orange
+4 bananas, 3 pears, 4 kiwis, 1 mango
+4 bananas, 5 pears, 1 apple, 1 grapefruit
+4 bananas, 5 pears, 1 kiwi, 2 oranges
+5 bananas, 2 oranges, 2 mangos
+5 bananas, 1 kiwi, 1 apple, 1 lemon, 1 orange, 1 mango
+5 bananas, 2 kiwis, 2 apples, 2 lemons
+5 bananas, 2 pears, 1 kiwi, 1 mango, 1 grapefruit
+5 bananas, 2 pears, 1 kiwi, 1 lemon, 1 coconut
+5 bananas, 2 pears, 3 kiwis, 1 lemon, 1 orange
+5 bananas, 3 pears, 1 apple, 1 orange, 1 mango
+5 bananas, 3 pears, 1 kiwi, 2 apples, 1 lemon
+5 bananas, 5 pears, 1 coconut
+5 bananas, 5 pears, 2 kiwis, 1 orange
+5 bananas, 6 pears, 2 apples
+6 bananas, 1 kiwi, 1 orange, 2 mangos
+6 bananas, 2 kiwis, 1 apple, 1 lemon, 1 mango
+6 bananas, 1 pear, 1 lemon, 1 orange, 1 grapefruit
+6 bananas, 2 pears, 4 kiwis, 1 lemon
+6 bananas, 3 pears, 1 kiwi, 1 apple, 1 mango
+6 bananas, 5 pears, 3 kiwis
+7 bananas, 2 kiwis, 2 mangos
+7 bananas, 1 pear, 1 kiwi, 1 lemon, 1 grapefruit
+7 bananas, 2 pears, 1 apple, 1 lemon, 1 orange
+7 bananas, 4 pears, 1 grapefruit
+8 bananas, 2 pears, 1 orange, 1 mango
+8 bananas, 2 pears, 1 kiwi, 1 apple, 1 lemon
+8 bananas, 5 pears, 1 apple
+9 bananas, 2 pears, 1 kiwi, 1 mango
+10 bananas, 1 pear, 1 lemon, 1 orange
+11 bananas, 1 pear, 1 kiwi, 1 lemon
+11 bananas, 4 pears

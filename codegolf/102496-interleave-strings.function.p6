@@ -1,0 +1,1 @@
+{[~] flat roundrobin |$_».comb}

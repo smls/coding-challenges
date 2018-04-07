@@ -1,0 +1,1 @@
+{roundrobin(|$_)».sum}

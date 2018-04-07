@@ -1,0 +1,1 @@
+->\a{for first({.[0] eq[~] .[1]»[1]},map |*,[Z] map {.[0]X [X] map {.comb[(^$_,$_,$_^..* for ^.chars)]},.[1..*]},a.permutations)[1] ->$/ {say [~] " "x a.comb-$0,|$0,$1.uc,|$2}}

@@ -1,0 +1,6 @@
+123.45.17.8 123.45.123.45 University of Vestige
+123.50.1.1 123.50.10.1 National Center for Pointlessness
+200.0.0.251 200.0.0.255 Daubs Haywire Committee
+200.0.1.1 200.0.255.255 Geopolitical Encyclopedia
+250.1.2.3 250.2.5.6 Shavian Refillable Committee
+123.45.100.0 123.50.32.1 United Adverbs

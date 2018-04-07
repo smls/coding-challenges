@@ -1,0 +1,17 @@
+Door: CLOSED
+> Button clicked.
+Door: OPENING
+> Cycle complete.
+Door: OPEN
+> Button clicked.
+Door: CLOSING
+> Button clicked.
+Door: STOPPED_WHILE_CLOSING
+> Button clicked.
+Door: OPENING
+> Button clicked.
+Door: STOPPED_WHILE_OPENING
+> Button clicked.
+Door: CLOSING
+> Cycle complete.
+Door: CLOSED
