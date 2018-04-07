@@ -1,5 +1,17 @@
 #!/usr/bin/env perl6
 
+#---------------------------.
+# Compiler/lexical analyzer |
+#---------------------------'
+
+# For the task: https://rosettacode.org/wiki/Compiler/lexical_analyzer
+# Language: Perl 6
+# Author: Sam S <smls75@gmail.com>
+
+# Not sumbitted, because someone else had already submitted a Perl 6 solution
+# in the meantime.
+
+
 role Cish::Tokens {
     token OP_MULTIPLY   { '*'  }
     token OP_DIVIDE     { '/'  }

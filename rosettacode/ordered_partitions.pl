@@ -1,13 +1,19 @@
-#!/usr/bin/perl
-# http://rosettacode.org/wiki/Ordered_Partitions#Perl
+#!/usr/bin/env perl
+
+#--------------------.
+# Ordered_Partitions |
+#--------------------'
+
+# For the task: http://rosettacode.org/wiki/Ordered_Partitions
+# Language: Perl
+# Author: Sam S <smls75@gmail.com>
 
 # This one I didn't develop from scratch, but rather translated it from the
 # Perl 6 solution by TimToady on the same page.
 
+
 use strict;
 use warnings;
-# ---------------------
-
 use List::Util 1.33 qw(sum pairmap);
 
 sub partition {

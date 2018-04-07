@@ -1,4 +1,13 @@
-#!/usr/bin/perl6
+#!/usr/bin/env perl6
+
+#--------------------------------------.
+# Dinesman's multiple-dwelling problem |
+#--------------------------------------'
+
+# For the task: https://rosettacode.org/wiki/Dinesman%27s_multiple-dwelling_problem
+# Language: Perl 6
+# Author: Sam S <smls75@gmail.com>
+
 
 sub parse_and_solve ($text) {
     my %ids;

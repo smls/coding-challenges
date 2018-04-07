@@ -1,4 +1,13 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
+
+#--------------------------------------.
+# Dinesman's multiple-dwelling problem |
+#--------------------------------------'
+
+# For the task: https://rosettacode.org/wiki/Dinesman%27s_multiple-dwelling_problem
+# Language: Perl
+# Author: Sam S <smls75@gmail.com>
+
 
 use strict;
 use warnings;

@@ -1,5 +1,18 @@
 #!/usr/bin/env perl6
 
+#-------------.
+# Chat server |
+#-------------'
+
+# For the task: https://rosettacode.org/wiki/Chat_server
+# Language: Perl 6
+# Author: Sam S <smls75@gmail.com>
+
+# This one I didn't develop completely from scratch, but rather started by
+# translating the Python solution by Stephenmcd on the same page.
+# But in the end it turned out pretty different.
+
+
 react {
     my $port = 4004;
     my %connections;

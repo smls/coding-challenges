@@ -1,5 +1,14 @@
 #!/usr/bin/env perl6
 
+#-------------------------------------------.
+# Rosetta Code/Rank languages by popularity |
+#-------------------------------------------'
+
+# For the task: https://rosettacode.org/wiki/Rosetta_Code/Rank_languages_by_popularity
+# Language: Perl 6
+# Author: Sam S <smls75@gmail.com>
+
+
 use HTTP::UserAgent;
 use JSON::Tiny;
 
