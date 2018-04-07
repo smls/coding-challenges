@@ -6,7 +6,7 @@ Currently, all of these are written in the [Perl 6](https://perl6.org/) programm
 
 ## Code files
 
-Each code solution is represented by a file in this directory, with a file name constructed as follows:
+Each code solution is represented by a file in the `src` directory, with a file name constructed as follows:
 
 ```
 108675-is-this-word-lexically-ordered               -- task ID
@@ -44,3 +44,5 @@ To run _all_ the unit test, fire the following shell command in this folder *(re
 To run tests for a single task, use a command like this *(requires only Perl 6 installed)*:
 
     t/108675-is-this-word-lexically-ordered.t
+
+Note that some of the code solutions may cause warnings to be printed to STDERR, that should be ignored. This is usually allowed in these kinds of code-golf challenges.

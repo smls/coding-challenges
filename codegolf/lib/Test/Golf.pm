@@ -30,7 +30,7 @@ multi golf-ok (
     my $name = $test-file.basename.subst(/'.t' $/, '')
         ~ (".$solution" if $solution);
     
-    my @golf = $test-file.parent.parent
+    my @golf = $test-file.parent.parent.child('src')
         .dir(test => /^ $name < - .>/)
         .map({ Golf::Snippet.new:
             file => $_,
